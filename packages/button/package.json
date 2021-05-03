@@ -10,5 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
-  }
+  },
+  "gitHead": "7f0b27efa53075bb390cd8e9eea67e0949b75634"
 }
